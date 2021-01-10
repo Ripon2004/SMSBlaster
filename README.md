@@ -13,5 +13,5 @@ pip install requests
 python SmsBlast.py
 </pre>
 
-Thanks To Allah.
+Thanks To Allah.<br>
 ./Black_Phish
