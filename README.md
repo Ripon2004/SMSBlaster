@@ -6,6 +6,7 @@ Leet People Can Decode My Script bcz it's easy. & I Don't Encode Hard Bcz 1337 P
 Don’t Edit Banner Othere Tool. They Can Recode But Don’t Copy.         
 
 # Command:
+<pre>
 git clone https://github.com/Ripon2004/SMSBlaster
 cd SMSBlaster
 pip install requests
