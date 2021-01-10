@@ -11,4 +11,7 @@ git clone https://github.com/Ripon2004/SMSBlaster
 cd SMSBlaster
 pip install requests
 python SmsBlast.py
+</pre>
+
+Thanks To Allah.
 ./Black_Phish
