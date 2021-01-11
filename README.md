@@ -10,7 +10,11 @@ Don’t Edit Banner Othere Tool. They Can Recode But Don’t Copy.
 git clone https://github.com/Ripon2004/SMSBlaster
 cd SMSBlaster
 pip install requests
-python SmsBlast.py
+python new_smsblast.py
+
+Old Version Run:
+python SmsBlast.py 
+
 </pre>
 
 Thanks To Allah.<br>
